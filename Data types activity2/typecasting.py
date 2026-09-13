@@ -19,7 +19,7 @@ print("Data type of is_student is",type(is_student))
 print("Weight :",weight)
 print("Data type of weight is",type(weight))
 
-print("\n After Type Casting....")
+print("\n After Type Casting...")
 age = str(age)
 print(age)
 print("Data type of age is",type(age))
