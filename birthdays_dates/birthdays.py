@@ -1,0 +1,5 @@
+print("Arjun: 12-05-2012")
+print("Riya: 25-08-2013")
+print("Aman: 03-11-2012")
+print("Sara: 19-01-2013")
+print("Kabir: 30-09-2012")
